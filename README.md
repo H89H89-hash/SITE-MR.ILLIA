@@ -1,2 +1,2 @@
 SITE.MR.ILLIA.GITHUB
-Версия 1
+Версия 2

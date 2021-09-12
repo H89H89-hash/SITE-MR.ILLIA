@@ -1,7 +1,8 @@
 body {
-  background-color: rgb(185, 0, 0);
+  background-color: #ee0000;
 }
 .heading {
-  color: white;
-  background-color: rgb(107, 52, 52);
+  font-family: "Comfortaa", cursive;
+  color: #ee0000;
+  background-color: #8a4c4c;
 }
